@@ -1,0 +1,43 @@
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\primier league players.exe
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\primier league players.deps.json
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\primier league players.runtimeconfig.json
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\primier league players.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\primier league players.pdb
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.csproj.AssemblyReference.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier_league_players.Form1.resources
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier_league_players.Properties.Resources.resources
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.csproj.GenerateResource.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.AssemblyInfoInputs.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.AssemblyInfo.cs
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.csproj.CoreCompileInputs.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.csproj.CopyComplete
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\refint\primier league players.dll
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.pdb
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\primier league players.genruntimeconfig.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\primier league players\obj\Debug\net6.0-windows\ref\primier league players.dll

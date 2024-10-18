@@ -1,0 +1,8 @@
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Artificial Intelligence\Spring 2023\Database Management Systems\Projects\Forms\Windows Forms\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

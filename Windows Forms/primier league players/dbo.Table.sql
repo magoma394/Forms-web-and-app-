@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[PLScorers]
+(
+	[Age] VARCHAR(100) NOT NULL, 
+    [Player] VARCHAR(100) NOT NULL, 
+    [Goals] VARCHAR(100) NOT NULL, 
+    [MP] VARCHAR(100) NOT NULL
+)
